@@ -72,7 +72,7 @@ Ideas:
 - A __USER__ can leave a _REVIEW_ for a __PAPER__ on potential improvements to
   their work.
 - Figure out a way for an __AUTHOR__ to make a _RESPONSE_ to a _REVIEW_.
-- Perhaps the _REVIEW_ + _RESPONSE_ flow should be done in [./../papers_forum/]
+- Perhaps the _REVIEW_ + _RESPONSE_ flow should be done in [papers.forum](./../papers_forum/)
   in threads.
 - Need a way for __AUTHOR__'s to _UPDATE_ the __PAPER__ after the review to
   allow for modifications to be made on a paper. Should list out changes made
@@ -88,4 +88,4 @@ mission of the service.
 
 One thing that could be done is allowing temporarily anonymous _REVIEWS_ that
 are revealed after some time has passed. This should be controlled by the __AUTHOR__'s
-of the __PAPER__.
+of the __PAPER__.\].
